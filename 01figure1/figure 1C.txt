@@ -1,0 +1,59 @@
+	sample	genesets	gsvascore
+1	RIR1	regulation of inflammatory response	0.238265742
+2	RIR2	regulation of inflammatory response	0.366373321
+3	RIR3	regulation of inflammatory response	0.12633851
+4	RIR4	regulation of inflammatory response	-0.061709093
+5	RIR5	regulation of inflammatory response	0.357280425
+6	RIR6	regulation of inflammatory response	0.112505732
+7	Sham1	regulation of inflammatory response	-0.340583554
+8	Sham2	regulation of inflammatory response	-0.328003652
+9	Sham3	regulation of inflammatory response	-0.232398083
+10	Sham4	regulation of inflammatory response	-0.272684321
+11	Sham5	regulation of inflammatory response	-0.236184083
+12	RIR1	regulation of leukocyte migration	0.293520268
+13	RIR2	regulation of leukocyte migration	0.30311664
+14	RIR3	regulation of leukocyte migration	0.209290146
+15	RIR4	regulation of leukocyte migration	-0.109615268
+16	RIR5	regulation of leukocyte migration	0.438668092
+17	RIR6	regulation of leukocyte migration	0.079722508
+18	Sham1	regulation of leukocyte migration	-0.390270614
+19	Sham2	regulation of leukocyte migration	-0.279105002
+20	Sham3	regulation of leukocyte migration	-0.2606414
+21	Sham4	regulation of leukocyte migration	-0.363771355
+22	Sham5	regulation of leukocyte migration	-0.282037744
+23	RIR1	phototransduction	0.264376331
+24	RIR2	phototransduction	-0.190769215
+25	RIR3	phototransduction	-0.58342277
+26	RIR4	phototransduction	-0.357549943
+27	RIR5	phototransduction	-0.620348727
+28	RIR6	phototransduction	-0.399314217
+29	Sham1	phototransduction	0.191303845
+30	Sham2	phototransduction	0.285420316
+31	Sham3	phototransduction	0.429781613
+32	Sham4	phototransduction	0.472528483
+33	Sham5	phototransduction	0.419878828
+34	RIR1	ribose phosphate metabolic process	-0.046399868
+35	RIR2	ribose phosphate metabolic process	-0.036078405
+36	RIR3	ribose phosphate metabolic process	0.004533288
+37	RIR4	ribose phosphate metabolic process	-0.212701485
+38	RIR5	ribose phosphate metabolic process	-0.132849382
+39	RIR6	ribose phosphate metabolic process	-0.139214011
+40	Sham1	ribose phosphate metabolic process	0.124316937
+41	Sham2	ribose phosphate metabolic process	-0.006057813
+42	Sham3	ribose phosphate metabolic process	0.002079503
+43	Sham4	ribose phosphate metabolic process	-0.001152085
+44	Sham5	ribose phosphate metabolic process	-0.081266074
+
+
+	RIR1	RIR2	RIR3	RIR4	RIR5	RIR6	Sham1	Sham2	Sham3	Sham4	Sham5
+RIR1	1.328608075	0.843314979	0.720678359	0.465011929	0.762029065	0.743850903	-0.98898216	-0.957465077	-0.656092613	-0.824893279	-0.654325447
+RIR2	0.646697555	1.333321106	0.186632753	-0.506426575	0.74869709	0.258660966	-1.803409907	-1.851481463	-1.600129299	-1.708005924	-1.589820951
+RIR3	0.777385333	0.69725696	1.60218848	0.873988487	0.721000704	0.870687695	-0.1169297	-0.26011768	-0.016338973	-0.23281811	-0.118587425
+RIR4	0.591482869	0.421685046	0.781250607	1.812173845	0.577514616	0.973571811	-0.09590363	0.168879381	-0.017009911	-0.132962827	0.013990883
+RIR5	0.553263906	0.765365545	0.288229518	0.014652073	1.449154273	0.364121081	-1.133368524	-1.208813373	-1.66795494	-1.192263077	-1.653597091
+RIR6	0.820219187	0.709583799	0.939521727	1.194233431	0.749175646	1.42974288	-0.390009963	-0.258823697	-0.18794533	-0.53614921	-0.250005897
+Sham1	-1.598836582	-1.521285146	-1.289733705	-1.443464465	-1.309409219	-1.482800979	1.292257141	0.840240483	0.540896521	0.933446876	0.548737878
+Sham2	-1.442430918	-1.453637876	-1.447871292	-0.702341197	-1.282509352	-1.14126093	0.868132166	1.279634796	0.549273293	0.829354816	0.632432217
+Sham3	-0.314658795	-0.372754764	-0.233527545	-0.28667114	-0.701484013	-0.298217541	0.733969138	0.706483695	1.466158871	0.69671739	1.079296533
+Sham4	-1.012898271	-1.010780214	-1.155259129	-1.148848679	-0.965336542	-1.323187592	0.896031531	0.781539079	0.490764923	1.421189642	0.558089108
+Sham5	-0.348832359	-0.412069436	-0.392109773	-0.272307709	-0.748832268	-0.395168294	0.738213908	0.759923854	1.098377457	0.746383705	1.433790192

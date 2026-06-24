@@ -1,0 +1,12 @@
+Comparison	raw_p_value	gene	BH_adj_p_value	signif_level
+Control_vs_POAG	0.005795359	glycerophospholipid biosynthetic process	0.007727145	**
+Control_vs_POAG	0.04515457	glycerophospholipid catabolic process	0.04515457	*
+Control_vs_POAG	0.003610514	glycerophospholipid metabolic process	0.007727145	**
+Control_vs_POAG	0.004586392	sphingosine biosynthetic process	0.007727145	**
+Control_vs_POAG	0.011329697	reactome glycosphingolipid metabolism	0.015861575	*
+Control_vs_POAG	0.011329697	reactome sphingolipid metabolism	0.015861575	*
+Control_vs_POAG	0.00220222	sphingolipid metabolism	0.01541554	*
+Control_vs_POAG	0.212293836	wp ganglio sphingolipid metabolism	0.247676142	ns
+Control_vs_POAG	0.307489457	wp sphingolipid metabolism in senescence	0.307489457	ns
+Control_vs_POAG	0.005795359	wp sphingolipid metabolism integrated pathway	0.015861575	*
+Control_vs_POAG	0.011329697	wp sphingolipid metabolism overview	0.015861575	*

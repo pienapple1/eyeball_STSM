@@ -1,0 +1,11 @@
+Comparison	raw_p_value	genesets	area	BH_adj_p_value	signif_level
+RIR_vs_Sham	0.001034375	inflammatory response	CB	0.00206875	**
+RIR_vs_Sham	0.017611563	inflammatory response	Cornea&conj	0.035223126	*
+RIR_vs_Sham	0.000273756	inflammatory response	GCL	0.000273756	***
+RIR_vs_Sham	0.004362621	inflammatory response	INL	0.004362621	**
+RIR_vs_Sham	0.000122142	inflammatory response	Iris	0.000244284	***
+RIR_vs_Sham	0.012549878	inflammatory response	Len	0.025099756	*
+RIR_vs_Sham	0.874447699	inflammatory response	Muscle	0.874447699	ns
+RIR_vs_Sham	0.03518598	inflammatory response	ONL	0.070371961	ns
+RIR_vs_Sham	NA	inflammatory response	Optic nerve	NA	ns
+RIR_vs_Sham	0.553547596	inflammatory response	RPE	0.553547596	ns

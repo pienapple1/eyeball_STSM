@@ -1,0 +1,17 @@
+	total	expected	hits	Raw p	log10P	Enrichment Ratio	pathway	Signif	p.adjust
+Sphingolipid metabolism: integrated pathway	49	0.137	3	0.000288	3.540607512	20.37164339	Sphingolipid metabolism: integrated pathway	***	0.004608
+Growth factors and hormones in Beta-cell proliferation	3	0.00841	1	0.00839	2.076238039	110.9122807	Growth factors and hormones in Beta-cell proliferation	**	0.03584
+Role of hypoxia, angiogenesis, and FGF pathway in OA chondrocyte hypertrophy	3	0.00841	1	0.00839	2.076238039	110.9122807	Role of hypoxia, angiogenesis, and FGF pathway in OA chondrocyte hypertrophy	**	0.03584
+Endochondral ossification with skeletal dysplasias	4	0.0112	1	0.0112	1.950781977	83.18421053	Endochondral ossification with skeletal dysplasias	*	0.03584
+Endochondral ossification	4	0.0112	1	0.0112	1.950781977	83.18421053	Endochondral ossification	*	0.03584
+Regulation of thyroid hormone activity	5	0.014	1	0.0139	1.8569852	66.54736842	Regulation of thyroid hormone activity	*	0.037066667
+Diclofenac metabolic pathway	6	0.0168	1	0.0167	1.777283529	55.45614035	Diclofenac metabolic pathway	*	0.038171429
+Hippocampal synaptogenesis and neurogenesis	7	0.0196	1	0.0195	1.709965389	47.53383459	Hippocampal synaptogenesis and neurogenesis	*	0.0386
+Glucose metabolism in triple-negative breast cancer cells	9	0.0252	1	0.025	1.602059991	36.97076023	Glucose metabolism in triple-negative breast cancer cells	*	0.0386
+Angiopoietin-like protein 8 regulatory pathway	10	0.028	1	0.0277	1.557520231	33.27368421	Angiopoietin-like protein 8 regulatory pathway	*	0.0386
+Benzene metabolism	10	0.028	1	0.0277	1.557520231	33.27368421	Benzene metabolism	*	0.0386
+Thyroid hormone synthesis	12	0.0336	1	0.0332	1.478861916	27.72807018	Thyroid hormone synthesis	*	0.0386
+Thyroxine (thyroid hormone) production	12	0.0336	1	0.0332	1.478861916	27.72807018	Thyroxine (thyroid hormone) production	*	0.0386
+Amino acid metabolism	109	0.306	2	0.0359	1.444905551	6.105263158	Amino acid metabolism	*	0.0386
+Sphingolipid metabolism in senescence	14	0.0392	1	0.0386	1.413412695	23.76691729	Sphingolipid metabolism in senescence	*	0.0386
+Degradation pathway of sphingolipids, including diseases	14	0.0392	1	0.0386	1.413412695	23.76691729	Degradation pathway of sphingolipids, including diseases	*	0.0386

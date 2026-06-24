@@ -1,0 +1,212 @@
+gene,Regions
+2200002D01Rik,Cornea&Conj
+Aldh3a1,Cornea&Conj
+Anxa2,Cornea&Conj
+Aqp3,Cornea&Conj
+Aqp5,Cornea&Conj
+Asprv1,Cornea&Conj
+Calml3,Cornea&Conj
+Dsp,Cornea&Conj
+Emp1,Cornea&Conj
+Gsta4,Cornea&Conj
+Gsto1,Cornea&Conj
+Krt12,Cornea&Conj
+Krt5,Cornea&Conj
+Krt6a,Cornea&Conj
+Krt6b,Cornea&Conj
+Mal,Cornea&Conj
+Muc4,Cornea&Conj
+Perp,Cornea&Conj
+Plet1,Cornea&Conj
+Ppl,Cornea&Conj
+S100a6,Cornea&Conj
+Sfn,Cornea&Conj
+Tkt,Cornea&Conj
+Tmprss11a,Cornea&Conj
+Tmsb4x,Cornea&Conj
+Upk1b,Cornea&Conj
+Upk3bl,Cornea&Conj
+Adh7,Cornea&Conj
+Col17a1,Cornea&Conj
+Dsc2,Cornea&Conj
+Lypd2,Cornea&Conj
+Mal2,Cornea&Conj
+Psca,Cornea&Conj
+S100a10,Cornea&Conj
+S100a14,Cornea&Conj
+Slurp1,Cornea&Conj
+Trim29,Cornea&Conj
+Gpx3,CB
+Optc,CB
+Sned1,CB
+Col18a1,CB
+Crhbp,CB
+Fam129a,CB
+Fbln1,CB
+Penk,CB
+Slc26a4,CB
+Atp1a2,CB
+Nectin3,CB
+Gja1,CB
+Zic1,CB
+Pld5,CB
+Serpine1,CB
+Slc4a4,CB
+Slc6a13,CB
+Acta2,Iris
+Grem1,Iris
+Ptn,Iris
+Dcn,Iris
+Dct,Iris
+Gpnmb,Iris
+Igf1,Iris
+Mlana,Iris
+Myh11,Iris
+Pmel,Iris
+Serpina3n,Iris
+Tagln,Iris
+Gfap,Optic Nerve
+Gpr37l1,Optic Nerve
+S100b,Optic Nerve
+Bcas1,Optic Nerve
+Cldn11,Optic Nerve
+Cmtm5,Optic Nerve
+Cnp,Optic Nerve
+Dclk1,Optic Nerve
+Enpp2,Optic Nerve
+Ermn,Optic Nerve
+Gatm,Optic Nerve
+Kif5a,Optic Nerve
+Klk6,Optic Nerve
+Mag,Optic Nerve
+Mbp,Optic Nerve
+Mobp,Optic Nerve
+Mog,Optic Nerve
+Opalin,Optic Nerve
+Plp1,Optic Nerve
+Prr18,Optic Nerve
+Ptn,Optic Nerve
+Slc1a3,Optic Nerve
+Tmem88b,Optic Nerve
+Trf,Optic Nerve
+Tspan2,Optic Nerve
+Ugt8a,Optic Nerve
+Unc13c,Optic Nerve
+Vim,Optic Nerve
+Nefl,GCL
+Nefm,GCL
+Stmn2,GCL
+Calb2,GCL
+Sncg,GCL
+Nrn1,GCL
+Kif5a,GCL
+Meg3,GCL
+Nsg1,GCL
+Atp1b1,GCL
+Cartpt,GCL
+Ecel1,GCL
+Gap43,GCL
+Rbfox1,GCL
+Slc17a6,GCL
+Sparcl1,GCL
+Tubb2a,GCL
+Mdga2,INL
+Nrxn3,INL
+Zfp804b,INL
+Pcdh9,INL
+Synpr,INL
+Cadps,INL
+Dlg2,INL
+Adgrb3,INL
+Kcnip4,INL
+Scg2,INL
+Slc6a1,INL
+Gabrb3,INL
+Grik1,INL
+Ndnf,INL
+Rlbp1,INL
+Snhg11,INL
+Syt11,INL
+Trnp1,INL
+Vsx2,INL
+Celf4,INL
+Crym,INL
+Gad1,INL
+Gpr37,INL
+Pcp2,INL
+Ptprd,INL
+Slc1a3,INL
+Slc24a3,INL
+Trpm1,INL
+Rho,ONL
+Gnat1,ONL
+Pde6h,ONL
+Rbp3,ONL
+Aipl1,ONL
+Cdhr1,ONL
+Gnb1,ONL
+Gngt1,ONL
+Guca1b,ONL
+Pdc,ONL
+Pde6a,ONL
+Pde6b,ONL
+Pde6g,ONL
+Prph2,ONL
+Rcvrn,ONL
+Rom1,ONL
+Rs1,ONL
+Sag,ONL
+Slc17a7,ONL
+Slc24a1,ONL
+Tma7,ONL
+Cd24a,Len
+Cryaa,Len
+Cryab,Len
+Cryba1,Len
+Cryba2,Len
+Cryba4,Len
+Crybb1,Len
+Crybb2,Len
+Crybb3,Len
+Crygs,Len
+Gja8,Len
+Mip,Len
+Vit,Len
+Bfsp2,Len
+Col4a1,Len
+Gja3,Len
+Grifin,Len
+Lim2,Len
+Rgr,Rpe
+Rpe65,Rpe
+Lrat,Rpe
+Ttr,Rpe
+Rdh5,Rpe
+Slc16a8,Rpe
+Trf,Rpe
+Rdh10,Rpe
+Abhd2,Rpe
+Col8a1,Rpe
+Col9a3,Rpe
+Myoc,Rpe
+Timp3,Rpe
+Acta1,Muscle
+Myh4,Muscle
+Tnnc2,Muscle
+Tnni2,Muscle
+Tnnt3,Muscle
+Ckm,Muscle
+Myh1,Muscle
+Mylpf,Muscle
+Tcap,Muscle
+Ttn,Muscle
+Atp2a1,Muscle
+Mb,Muscle
+Myl1,Muscle
+Pvalb,Muscle
+Eno3,Muscle
+Actc1,Muscle
+Cox6a2,Muscle
+Des,Muscle
+Fabp4,Muscle
+Myh2,Muscle

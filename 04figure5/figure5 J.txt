@@ -1,0 +1,25 @@
+	total	expected	hits	Raw p	log10P	Enrichment Ratio	pathway	Signif	p.adjust
+Degradation of cysteine and homocysteine	37	0.0691	2	0.00197	2.705533774	45.57117117	Degradation of cysteine and homocysteine	**	0.020537143
+Membrane binding and targetting of GAG proteins	2	0.00374	1	0.00373	2.428291168	421.5333333	Membrane binding and targetting of GAG proteins	**	0.020537143
+Synthesis And Processing Of GAG, GAGPOL Polyproteins	2	0.00374	1	0.00373	2.428291168	421.5333333	Synthesis And Processing Of GAG, GAGPOL Polyproteins	**	0.020537143
+Trans-sulfuration, one-carbon metabolism and related pathways	58	0.108	2	0.00479	2.319664487	29.07126437	Trans-sulfuration, one-carbon metabolism and related pathways	**	0.020537143
+Assembly Of The HIV Virion	3	0.00561	1	0.0056	2.251811973	281.0222222	Assembly Of The HIV Virion	**	0.020537143
+Visual phototransduction	64	0.12	2	0.00581	2.235823868	26.34583333	Visual phototransduction	**	0.020537143
+Sulfur amino acid metabolism	65	0.121	2	0.00599	2.222573178	25.94051282	Sulfur amino acid metabolism	**	0.020537143
+Metal sequestration by antimicrobial proteins	7	0.0131	1	0.013	1.886056648	120.4380952	Metal sequestration by antimicrobial proteins	*	0.027026087
+Biosynthesis of A2E, implicated in retinal degradation	7	0.0131	1	0.013	1.886056648	120.4380952	Biosynthesis of A2E, implicated in retinal degradation	*	0.027026087
+Drug ADME	110	0.206	2	0.0166	1.779891912	15.32848485	Drug ADME	*	0.027026087
+Sulfation biotransformation reaction	9	0.0168	1	0.0167	1.777283529	93.67407407	Sulfation biotransformation reaction	*	0.027026087
+Synthesis of 12-eicosatetraenoic acid derivatives	10	0.0187	1	0.0186	1.730487056	84.30666667	Synthesis of 12-eicosatetraenoic acid derivatives	*	0.027026087
+Taurine and Hypotaurine Metabolism	12	0.0224	1	0.0222	1.653647026	70.25555556	Taurine and Hypotaurine Metabolism	*	0.027026087
+Beta oxidation of myristoyl-CoA to lauroyl-CoA	12	0.0224	1	0.0222	1.653647026	70.25555556	Beta oxidation of myristoyl-CoA to lauroyl-CoA	*	0.027026087
+Beta oxidation of palmitoyl-CoA to myristoyl-CoA	12	0.0224	1	0.0222	1.653647026	70.25555556	Beta oxidation of palmitoyl-CoA to myristoyl-CoA	*	0.027026087
+Adrenoleukodystrophy, X-linked	13	0.0243	1	0.0241	1.617982957	64.85128205	Adrenoleukodystrophy, X-linked	*	0.027026087
+Carnitine-acylcarnitine translocase deficiency	13	0.0243	1	0.0241	1.617982957	64.85128205	Carnitine-acylcarnitine translocase deficiency	*	0.027026087
+Pluripotent stem cell differentiation pathway	13	0.0243	1	0.0241	1.617982957	64.85128205	Pluripotent stem cell differentiation pathway	*	0.027026087
+Synthesis of 5-eicosatetraenoic acids	14	0.0262	1	0.0259	1.586700236	60.21904762	Synthesis of 5-eicosatetraenoic acids	*	0.027026087
+Synthesis of 15-eicosatetraenoic acid derivatives	14	0.0262	1	0.0259	1.586700236	60.21904762	Synthesis of 15-eicosatetraenoic acid derivatives	*	0.027026087
+Late Phase of HIV Life Cycle	14	0.0262	1	0.0259	1.586700236	60.21904762	Late Phase of HIV Life Cycle	*	0.027026087
+Biosynthesis of E-series 18(R)-resolvins	14	0.0262	1	0.0259	1.586700236	60.21904762	Biosynthesis of E-series 18(R)-resolvins	*	0.027026087
+Trans-sulfuration pathway	14	0.0262	1	0.0259	1.586700236	60.21904762	Trans-sulfuration pathway	*	0.027026087
+5-Oxoprolinuria	15	0.028	1	0.0277	1.557520231	56.20444444	5-Oxoprolinuria	*	0.0277
